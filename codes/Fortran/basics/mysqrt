@@ -1,0 +1,6 @@
+program mysqrt
+! Function  called sqrtNT(x) returns sqrt using Newton method
+
+
+
+end program mysqrt
